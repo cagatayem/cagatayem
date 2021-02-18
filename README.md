@@ -1,8 +1,7 @@
 
-![robot-first](https://user-images.githubusercontent.com/75314599/108335921-8acb6600-71e4-11eb-9560-e8785302cc28.png)
-![robot (2)](https://user-images.githubusercontent.com/75314599/108336833-85225000-71e5-11eb-9645-f8c742f85a53.png)
-
-
+<p align="left">
+<a><img src="https://user-images.githubusercontent.com/75314599/108337555-480a8d80-71e6-11eb-8efc-654b69a80431.jpg" alt="cagatayemm" height="450" width="500" /></a>
+</p>
 ### Hi there 👋
 
 <!--
