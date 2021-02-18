@@ -13,10 +13,10 @@
 <h3> I am an energetic and imaginative Electronic and :computer: Engineer who is able to work alongside other talented professionals in creating web sites. Keen to gain more experience in this field.</h3>
 
 
--🔭 I’m currently working on [Myportfolio-website](https://github.com/cagatayem/Myportfolio-website)
--🌱 I’m currently learning React
--💬 Ask me about life :sunglasses:
--⚡ Fun fact: I guit :smoking: 3 moths ago :muscle:
+- 🔭 I’m currently working on [Myportfolio-website](https://github.com/cagatayem/Myportfolio-website)
+- 🌱 I’m currently learning React
+- 💬 Ask me about life :sunglasses:
+- ⚡ Fun fact: I guit :smoking: 3 moths ago :muscle:
 
 <br>
 
