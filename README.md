@@ -1,13 +1,18 @@
 
-<p align="left">
-<a><img src="https://user-images.githubusercontent.com/75314599/108337555-480a8d80-71e6-11eb-8efc-654b69a80431.jpg" alt="cagatayemm" height="450" width="500" /></a>
+
+
+
+
+<p align="right">
+<a><img  align="right" src="https://user-images.githubusercontent.com/75314599/108341899-3972a500-71eb-11eb-88d5-4d42a1d5b66c.jpg" alt="cagatayemm" height="500" width="600" /></a>
 </p>
-### Hi there 👋
 
-<!--
-**cagatayem/cagatayem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<h1 align="center">Hello, I'm Cagatay Em :v:</h1>
+<h3> I am an energetic and imaginative Electronic and :computer: Engineer who is able to work alongside other talented professionals in creating web sites. Keen to gain more experience in this field.</h3>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
