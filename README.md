@@ -10,7 +10,7 @@
 
 
 <h1 align="center" >Hello, I'm Cagatay Em :v:</h1>
-<h3> I am an energetic and imaginative Electronic and :computer: Engineer who is able to work alongside other talented professionals in Javascript development. Keen to gain more experience in this field.</h3>
+<h3> I am an energetic and imaginative Electronic and :computer: Engineer who is able to work alongside other talented professionals in JavaScript development. Keen to gain more experience in this field.</h3>
 
 
 - 🔭 I’m currently working on [Myportfolio-website](https://github.com/cagatayem/Myportfolio-website)
