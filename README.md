@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on [Myportfolio-website](https://github.com/cagatayem/Myportfolio-website)
 - 🌱 I’m currently learning React
 - 💬 Ask me about life :sunglasses:
-- ⚡ Fun fact: I guit :smoking: 3 moths ago :muscle:
+- ⚡ Fun fact: I can't live without :coffee:
 
 <br>
 
