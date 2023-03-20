@@ -1,8 +1,3 @@
-
-
-
-
-
 <p align="right">
 <a><img  align="right" src="https://user-images.githubusercontent.com/75314599/108341899-3972a500-71eb-11eb-88d5-4d42a1d5b66c.jpg" alt="cagatayemm" height="500" width="550" /></a>
 </p>
