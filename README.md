@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning more about Angular and planning to learn Java. Also I have some knowledge in React.
+- 🌱 I’m currently working as a Front-End Web Developer.
 - 💬 Ask me about life :sunglasses:
 - ⚡ Fun fact: I can't live without :coffee::coffee::coffee:
 
