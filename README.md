@@ -32,10 +32,7 @@
 <p align="center">
  <a href="https://www.coursera.org/account/accomplishments/certificate/8CVNZFA2AUSD" target="blank">:one: Meta - Introduction to Front-End Development </a><br>
 <a href="https://www.coursera.org/account/accomplishments/certificate/LSUN2554NHNW" target="blank">:two: Meta - Programming with JavaScript</a><br>
- <a href="https://www.linkedin.com/learning/certificates/bedd60a97dea07120b4d01b35ab155277054af677c1523eb52eb75879239d9c3" target="blank">:three: Learning SQL Programming Learning SQL Programming</a>
-
 </p>
-
 
 <br>
 <h3 align="center">Connect with me:</h3>
